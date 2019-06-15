@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Example47</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="myCity">
+        <item>Navsari</item>
+        <item>Surat</item>
+        <item>Valsad</item>
+        <item>Vadodra</item>
+        <item>Ahmedabad</item>
+        <item>GandhiNagar</item>
+        <item>Bharuch</item>
+        <item>Vapi</item>
+
+    </string-array>
+</resources>
